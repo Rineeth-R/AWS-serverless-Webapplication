@@ -2,11 +2,11 @@
 **AWS - Serverless Web Application** 
 
 **Project Description**
-This project involves developing a serverless web application leveraging AWS services to achieve scalability, cost-efficiency, and high availability. The application enables users to perform Create, Read, Update, and Delete (CRUD) operations on a DynamoDB table through a frontend hosted on Amazon S3 and distributed via CloudFront. AWS Lambda functions handle backend logic, ensuring seamless interaction with the database.
+This project involves developing a serverless web application leveraging AWS services to achieve scalability, cost-efficiency, and high availability. The application enables users to perform Create, Read, Update, and Delete  operations on a DynamoDB table through a frontend hosted on Amazon S3 and distributed via CloudFront. AWS Lambda functions handle backend logic, ensuring seamless interaction with the database.
 
 **Key Components:**
 Amazon DynamoDB – NoSQL database for storing application data.
-AWS Lambda – Handles backend processing and CRUD operations.
+AWS Lambda – Handles backend processing.
 Amazon S3 – Hosts static web assets (HTML, CSS, JavaScript).
 Amazon CloudFront – Provides low-latency content delivery.
 Amazon Route 53 – Manages domain routing for optimized accessibility.
