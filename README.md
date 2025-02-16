@@ -18,3 +18,6 @@ Performing CRUD operations with DynamoDB
 Hosting and deploying static websites using Amazon S3 and CloudFront
 Configuring Route 53 for domain management
 Integrating AWS services to develop scalable web applications
+
+![Project - Architecture](https://github.com/user-attachments/assets/22a7eb40-823e-439b-bf80-55d8ef56ae91)
+
